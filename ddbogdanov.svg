@@ -31,13 +31,12 @@
           color: #6EFCBB;
           text-shadow: -.0625rem -.0625rem 0 #6BFFFF, .0625rem .0625rem 0 #FF819E;
 
-          background-image: url("https://github.com/ddbogdanov/ddbogdanov/blob/main/background.jpg?raw=true");
-          background-repeat: repeat;
-          background-size: auto;
 
           animation: background-animation 20s linear infinite;        
         }
-
+        .background {
+          position: absolute;
+        }
         .center-text {
           text-align: center;
         }
@@ -156,6 +155,8 @@
 
       <a href="https://resume.creddle.io/resume/9hvix0sypl6">
         <div class="container">
+
+          <img class="background" src="https://github.com/ddbogdanov/ddbogdanov/blob/main/background.jpg?raw=true"/>
 
           <div class="stack center-text" style="--stacks: 3;">
             <h1 style="--index: 0;">Dennis Bogdanov</h1>
