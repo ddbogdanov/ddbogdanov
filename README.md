@@ -1,3 +1,3 @@
-### Hi there, I'm Dennis.
-
-Heres [**My Resume**](https://resume.creddle.io/resume/9hvix0sypl6)
+<div style="width: 100%;">
+  <img src="ddbogdanov.svg" style="width: 100%;" alt="Dennis Bogdanov">
+</div>
